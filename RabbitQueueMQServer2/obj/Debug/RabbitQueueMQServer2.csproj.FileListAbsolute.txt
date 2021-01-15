@@ -1,0 +1,60 @@
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\RabbitQueueMQServer2.exe.config
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\RabbitQueueMQServer2.exe
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\RabbitQueueMQServer2.pdb
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\RabbitMQ.Client.dll
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\System.Buffers.dll
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\System.Memory.dll
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\System.Threading.Channels.dll
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\RabbitMQ.Client.pdb
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\RabbitMQ.Client.xml
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\System.Buffers.xml
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\System.Memory.xml
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\System.Threading.Channels.xml
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\obj\Debug\RabbitQueueMQServer2.csprojAssemblyReference.cache
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\obj\Debug\RabbitQueueMQServer2.csproj.CoreCompileInputs.cache
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\obj\Debug\RabbitQueueMQServer2.csproj.CopyComplete
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\obj\Debug\RabbitQueueMQServer2.exe
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\obj\Debug\RabbitQueueMQServer2.pdb
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\EntityFramework.dll
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\EntityFramework.xml
+C:\Users\hoa\source\repos\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\EntityFramework.SqlServer.xml
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\RabbitQueueMQServer2.exe.config
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\RabbitQueueMQServer2.exe
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\RabbitQueueMQServer2.pdb
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\EntityFramework.dll
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\EntityFramework.SqlServer.dll
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\HtmlAgilityPack.dll
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\RabbitMQ.Client.dll
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\System.Buffers.dll
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\System.Memory.dll
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\System.Numerics.Vectors.dll
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\System.Threading.Channels.dll
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\EntityFramework.xml
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\EntityFramework.SqlServer.xml
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\HtmlAgilityPack.pdb
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\HtmlAgilityPack.xml
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\RabbitMQ.Client.pdb
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\RabbitMQ.Client.xml
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\System.Buffers.xml
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\System.Memory.xml
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\System.Numerics.Vectors.xml
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\System.Threading.Channels.xml
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\obj\Debug\RabbitQueueMQServer2.csprojAssemblyReference.cache
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\obj\Debug\RabbitQueueMQServer2.csproj.CoreCompileInputs.cache
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\obj\Debug\RabbitQueueMQServer2.csproj.CopyComplete
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\obj\Debug\RabbitQueueMQServer2.exe
+E:\FPT Aptech\Crawler\RabbitQueueMQServer2\RabbitQueueMQServer2\obj\Debug\RabbitQueueMQServer2.pdb
